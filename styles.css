@@ -61,7 +61,7 @@ button {
     color: #FFFFFF;
 }
 
-button: :hover {
+button:hover {
     opacity: 0.8;
 }
 
